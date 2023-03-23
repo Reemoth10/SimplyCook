@@ -9,4 +9,4 @@ Simply Cook is a wonderful handy application for those who don't have the great 
 
 
 # Note:
-the "See More" buttton doesn't work,This is my first Flutter Project therefore this application will be updated within it's full potential later on in the future. 
+the "See More" buttton doesn't work, This is my first Flutter Project therefore this application will be updated within it's full potential later on in the future. 
