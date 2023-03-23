@@ -1,16 +1,14 @@
-# intro_first
+# Simply Cook
 
-A new Flutter project.
+My first Flutter Project
 
-## Getting Started
+Simply Cook is a wonderful handy application for those who don't have the great skill of cooking. This application provides simple and healthy meals that can be done at just 30 min or less!, Pick the food that you would like to cook with and watch all the wonderful meals that you can prepare. Cooking should't be hard it should be simple with Simply Cook.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+#Note:
+the "See More" buttton does not work, this application will be updated within it's full potential later on in the future. 
