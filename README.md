@@ -2,7 +2,7 @@
 
 My first Flutter Project
 
-Simply Cook is a wonderful handy application for those who don't have the great skill of cooking. This application provides simple and healthy meals that can be done at just 30 min or less!, Pick the food that you would like to cook with and watch all the wonderful meals that you can prepare. Cooking should't be hard it should be simple with Simply Cook.
+Simply Cook is a wonderful handy application for those who don't have the great skill of cooking. This application provides simple and healthy meals that can be done at just 30 mins or less!, Pick the food that you would like to cook and watch all the wonderful meals that you can prepare. Cooking should't be hard it should be simple with Simply Cook.
 
 
 
