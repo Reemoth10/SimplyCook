@@ -10,5 +10,5 @@ Simply Cook is a wonderful handy application for those who don't have the great 
 
 
 
-#Note:
+# Note:
 the "See More" buttton does not work, this application will be updated within it's full potential later on in the future. 
